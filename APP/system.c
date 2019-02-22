@@ -171,11 +171,7 @@ void Loop(void)
 	if((int32_t)(currentTime - loopTime_2ms) >= 0)
 	{
 		loopTime_2ms = currentTime + 1000000;//2ms
-//		if(SystemMonitor == Normal_Mode)
-//		{
-//			
-////		}
-//		Red_Equipment_All_Light(GPIOB,GPIO_Pin_9);
+
 		if(hahaha  == 0)
 		{
 			BlueOne_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
@@ -193,117 +189,9 @@ void Loop(void)
 			BlueFour_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
 		}
 		
-//		BlueNine_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-		
-		
-		
-//		if(hahaha  == 0)
-//		{
-//			BlueOne_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 1)
-//		{
-//			BlueTwo_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 2)
-//		{
-//			BlueThree_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 3)
-//		{
-//			BlueFour_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 4)
-//		{
-//			BlueFive_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 5)
-//		{
-//			BlueSix_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 6)
-//		{
-//			BlueSeven_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-////		else if(hahaha == 7)
-////		{
-////			BlueEight_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-////		}
-////		else if(hahaha == 8)
-////		{
-////			BlueNine_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-////		}
-//		
-//		
-//		else if(hahaha == 9)
-//		{
-//			BlueOne_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 10)
-//		{
-//			BlueTwo_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 11)
-//		{
-//			BlueThree_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 12)
-//		{
-//			BlueFour_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		
-//		
-//		else if(hahaha == 13)
-//		{
-//			BlueOne_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 14)
-//		{
-//			BlueTwo_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 15)
-//		{
-//			BlueThree_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 16)
-//		{
-//			BlueFour_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		
-//		
-//		else if(hahaha == 17)
-//		{
-//			BlueOne_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 18)
-//		{
-//			BlueTwo_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 19)
-//		{
-//			BlueThree_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//		else if(hahaha == 20)
-//		{
-//			BlueFour_Flow_ArrowHead_Light(GPIOB,GPIO_Pin_9);
-//		}
-//			
-//		
+
 		hahaha ++;
-//		
-//	
-//		
-//		
-//		
-//		
-//		
-//		
-//		
-//		
-//		
-//		
-		
-		
+
 	}	
 }
 

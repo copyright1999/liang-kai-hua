@@ -1732,33 +1732,33 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-      1220         54      14976          0          0       5571   blue.o
-       396         12          0          0          0       1453   can1.o
-       436         10          0          0          0       1501   can2.o
-       924         52          0         32          0       2877   clock.o
-       144         18          0          1          0      28944   control.o
-       288         14        770          2          0       3153   crc.o
-      8908        224        157         53          0      23845   inv_mpu.o
-      3472        142       3062          0         16      15159   inv_mpu_dmp_motion_driver.o
-        96          8          0          0          0        519   led.o
-        88         12          0          4          0     282641   main.o
-       224         20          0          0          0       1869   misc.o
-       900         22          0          0          0       4147   mpu6050.o
-       600         12          0          0          0       1904   myiic.o
-        64         26        392          0       1536        852   startup_stm32f40xx.o
-      2544         38          0          0          0       8020   stm32f4xx_can.o
-       936         32          0          0          0       6341   stm32f4xx_dma.o
-       660         44          0          0          0       4145   stm32f4xx_gpio.o
-        40          4          0          4          0       1882   stm32f4xx_it.o
-      1588         52          0         16          0      12802   stm32f4xx_rcc.o
-      1108         34          0          0          0       7844   stm32f4xx_usart.o
-       740         90          0         68          0      31197   system.o
-       528         46          0         20          0       1927   system_stm32f4xx.o
-        36          4          0          4          0       2730   usart.o
-       660         50          0          0         46       4883   usart2.o
+      1220         54      14976          0          0       5523   blue.o
+       396         12          0          0          0       1433   can1.o
+       436         10          0          0          0       1477   can2.o
+       924         52          0         32          0       2805   clock.o
+       144         18          0          1          0      28852   control.o
+       288         14        770          2          0       3085   crc.o
+      8908        224        157         53          0      23773   inv_mpu.o
+      3472        142       3062          0         16      15095   inv_mpu_dmp_motion_driver.o
+        96          8          0          0          0        495   led.o
+        88         12          0          4          0     282437   main.o
+       224         20          0          0          0       1821   misc.o
+       900         22          0          0          0       4103   mpu6050.o
+       600         12          0          0          0       1880   myiic.o
+        64         26        392          0       1536        844   startup_stm32f40xx.o
+      2544         38          0          0          0       7976   stm32f4xx_can.o
+       936         32          0          0          0       6301   stm32f4xx_dma.o
+       660         44          0          0          0       4101   stm32f4xx_gpio.o
+        40          4          0          4          0       1810   stm32f4xx_it.o
+      1588         52          0         16          0      12730   stm32f4xx_rcc.o
+      1108         34          0          0          0       7800   stm32f4xx_usart.o
+       740         90          0         68          0      31097   system.o
+       528         46          0         20          0       1859   system_stm32f4xx.o
+        36          4          0          4          0       2662   usart.o
+       660         50          0          0         46       4795   usart2.o
 
     ----------------------------------------------------------------------
-     26600       1020      19392        208       1600     456206   Object Totals
+     26600       1020      19392        208       1600     454754   Object Totals
          0          0         32          0          0          0   (incl. Generated)
          0          0          3          4          2          0   (incl. Padding)
 
@@ -1854,8 +1854,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     33974       1594      19690        208       1696     454126   Grand Totals
-     33974       1594      19690        208       1696     454126   ELF Image Totals
+     33974       1594      19690        208       1696     452674   Grand Totals
+     33974       1594      19690        208       1696     452674   ELF Image Totals
      33974       1594      19690        208          0          0   ROM Totals
 
 ==============================================================================
