@@ -372,7 +372,7 @@ I (..\BSP\can1.h)(0x59FE8EF9)
 I (..\BSP\can2.h)(0x5BC5C859)
 I (..\BSP\blue.h)(0x5C6B8FC4)
 I (..\BSP\clock.h)(0x5C6AA217)
-F (..\BSP\blue.c)(0x5C6F6772)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I..\APP -I..\BSP -I..\Libraries\inc -I..\Libraries\src -I..\Libraries\cmsis\Include -I..\Libraries\cmsis -I..\SYSTEM -I..\mpu6050 -I..\mpu6050\eMPL-I E:\code--for--github\wind--car\Project\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Device\Include-D__UVISION_VERSION="514" -DSTM32F405xx -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER --C99-o .\objects\blue.o --omf_browse .\objects\blue.crf --depend .\objects\blue.d)
+F (..\BSP\blue.c)(0x5C8126E9)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I..\APP -I..\BSP -I..\Libraries\inc -I..\Libraries\src -I..\Libraries\cmsis\Include -I..\Libraries\cmsis -I..\SYSTEM -I..\mpu6050 -I..\mpu6050\eMPL-I E:\code--for--github\wind--car\Project\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Device\Include-D__UVISION_VERSION="514" -DSTM32F405xx -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER --C99-o .\objects\blue.o --omf_browse .\objects\blue.crf --depend .\objects\blue.d)
 I (..\BSP\blue.h)(0x5C6B8FC4)
 I (..\APP\system.h)(0x5C6A9F0C)
 I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
